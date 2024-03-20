@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "9ef4c2beac0fdf03",
+    "type": "split",
+    "children": [
+      {
+        "id": "018e53d14e62d9bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a2c08da85571105",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8389bcabad6e216f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf7cae6ef99a2176",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e53b68759b795ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4054f82f6a6ac969",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d91319a61c4b03f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5
+  },
+  "right": {
+    "id": "1f8256c970ce9df9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1dc6b736d59c22c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "964b06817f913684",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5814f5b0aa87ef55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "50f8377e4f521633",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "d70b7ec15a8eb413",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "8e53b68759b795ef",
+  "lastOpenFiles": [
+    "webSafe-note",
+    "新建文件夹",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "obsidian-note/md/js++/DOM/2.元素节点操作.md",
+    "obsidian-note/md/js++/DOM/6.鼠标.md",
+    "obsidian-note/md/js++/DOM/utils.md",
+    "obsidian-note/md/js++/DOM/5.事件.md",
+    "obsidian-note/md/js++/DOM/3.窗口方法.md",
+    "obsidian-note/md/js++/DOM/4.DOM操作内联样式.md",
+    "obsidian-note/md/js++/DOM/1.获取节点.md",
+    "obsidian-note/learning/webpack/5 如何搭建 Vue 全栈开发环境？[微信：itcodeba ].md",
+    "obsidian-note/Drawing 2024-01-17 07.27.19.excalidraw.md",
+    "obsidian-note/learning/Vue.js 组件精讲/3组件的通信 2：派发与广播——自行实现 dispatch 和 broadcast 方法.md",
+    "obsidian-note/learning/vue3_source/04 - Setup：组件渲染前的初始化过程是怎样的？【海 量资源：ubkz.com】.pdf",
+    "obsidian-note/learning/lg_webpack/06-团队工具：如何利用云开发提升团队开发效率？【海 量资源：ubkz.com】.pdf",
+    "obsidian-note/md/js++/ECMA专题/arguments.md",
+    "obsidian-note/md/js++/DOM",
+    "obsidian-note/md/js++/js/8.三目运算符、深拷贝浅拷贝.md",
+    "obsidian-note/md/js++/js/1.类型转换.md",
+    "obsidian-note/md/js++/ECMA专题",
+    "obsidian-note/md/lg_web/part1_javascript_deep_lean/ECMAScript/ECMAScript基础.md",
+    "obsidian-note/md/lg_web/part1_javascript_deep_lean/javascript性能优化/javascript性能优化.md",
+    "obsidian-note/md/js++/js/11.信息错误，trycatch，严格模式.md",
+    "obsidian-note/md/js++/js/10.类数组.md",
+    "obsidian-note/md/js++/js/9.数组.md",
+    "obsidian-note/md/js++/js/2.函数基础与种类、形实及映射、递归、GO、AO.md",
+    "obsidian-note/md/js++/js/3.作用域、作用域链、闭包基础.md",
+    "obsidian-note/md/js++/js/4.立即执行函数，闭包案例，运算符.md",
+    "obsidian-note/md/js++/js/5.对象、构造函数、实例化、包装类.md",
+    "obsidian-note/md/js++/js/7.对象属性遍历，this.md",
+    "obsidian-note/md/js++/js/6.原型链.md",
+    "obsidian-note/md/js++/js/7.对象遍历，this",
+    "obsidian-note/md/js++/js/6.原型链",
+    "obsidian-note/md/coderwhy/浏览器工作原理和V8引擎/index.md",
+    "obsidian-note/md/js++/js",
+    "obsidian-note/md/js++",
+    "obsidian-note/learning/webpack",
+    "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/9.jpg",
+    "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/7.jpg",
+    "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/6.jpg",
+    "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/5.jpg",
+    "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/4.jpg",
+    "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/3.jpg",
+    "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/2.jpg",
+    "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/1.jpg",
+    "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/0.jpg",
+    "obsidian-note/md/black house/安装教程 - Windows系统安装MySql/imgs/34.jpg"
+  ]
+}
